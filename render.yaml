@@ -3,7 +3,7 @@ services:
     name: tezda-yuklayman-bot
     env: python
     plan: free
-    buildCommand: "./build.sh"
+    buildCommand: "pip install -r requirements.txt && mkdir -p /tmp/bin && curl -L https://johnvansickle.com/ffmpeg/releases/ffmpeg-release-i686-static.tar.xz | tar -xJ -C /tmp/bin --strip-components=1"
     startCommand: 'export PATH="/tmp/bin:$PATH" && python bot.py'
     healthCheckPath: /
     autoDeploy: true
