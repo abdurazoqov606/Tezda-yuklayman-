@@ -1,0 +1,9 @@
+services:
+  - type: web
+    name: tezda-yuklayman-bot
+    env: python
+    plan: free
+    buildCommand: "./build.sh"
+    startCommand: "export PATH=\"/tmp/bin:\$PATH\" && python bot.py"
+    healthCheckPath: /
+    autoDeploy: true
