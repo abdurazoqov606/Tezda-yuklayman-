@@ -56,7 +56,7 @@ logger = logging.getLogger(__name__)
 # ─────────────────────────────────────────────────────────────
 #  ⚙️  SOZLAMALAR — bu yerni o'zgartiring
 # ─────────────────────────────────────────────────────────────
-BOT_TOKEN  = "8990234811:AAGjIFyNd3gKggua1qlUN_R0ZfkiRt_SFss"
+BOT_TOKEN  = "8660090967:AAGqowjTb5NMh8o7mZAhbBp2wZ2A4OYUE5k"
 ADMIN_IDS  = [8426582765]
 BOT_NAME   = "@TezdaYuklaymanbot"
 AUTHOR     = "@vsf911"
