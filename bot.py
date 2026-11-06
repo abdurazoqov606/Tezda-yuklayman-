@@ -3,7 +3,7 @@
 """
 ╔══════════════════════════════════════════════════════════════╗
 ║        🚀 TEZDA YUKLAYMAN BOT — PREMIUM EDITION v2.0        ║
-║        Muallif  : @vsf911                                    ║
+║        Muallif  : @uzs_kr                                    ║
 ║        Versiya  : 2.0 — Render.com uchun moslashtirilgan    ║
 ╚══════════════════════════════════════════════════════════════╝
 
@@ -56,7 +56,7 @@ logger = logging.getLogger(__name__)
 # ─────────────────────────────────────────────────────────────
 #  ⚙️  SOZLAMALAR — bu yerni o'zgartiring
 # ─────────────────────────────────────────────────────────────
-BOT_TOKEN  = "8660090967:AAGqowjTb5NMh8o7mZAhbBp2wZ2A4OYUE5k"
+BOT_TOKEN  = "8660090967:AAH_FYJE-TP5Ehn5rM_ULkngd4K9vrXwkd8"
 ADMIN_IDS  = [8426582765]
 BOT_NAME   = "@TezdaYuklaymanbot"
 AUTHOR     = "@vsf911"
